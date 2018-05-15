@@ -1,0 +1,1 @@
+# sat6-template
